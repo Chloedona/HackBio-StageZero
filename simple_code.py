@@ -1,3 +1,9 @@
 name = "Chloe"
-print("Hello, my name is " + name + ".", "I am a Host Strain Development scientist at CPI.")
-print("My favourite gene is the 16S rRNA gene, because it is used for identifying and classifying bacteria, which is a big part of my work.")   
+affiliation = "CPI"
+favourite_gene = "16S rRNA gene"
+organism = "Escherichia coli"
+
+print("Hello, my name is " + name + ".")
+print("I am a Host Strain Development Scientist at " + affiliation + ".")
+print("My favourite gene is the " + favourite_gene + ".")
+print("It is commonly studied in organisms such as " + organism + " because it is used for identifying and classifying bacteria.")
