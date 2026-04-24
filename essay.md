@@ -1,35 +1,34 @@
-# Can AI Discover New Genes We Didn’t Know Existed?
 
-## Introduction
+## Can AI Discover New Genes We Didn’t Know Existed?
 
-Artificial intelligence (AI) is changing the way we study biology, especially in genomics. Genomics is the study of DNA and genes. DNA is the instruction manual of life because it tells cells how to grow, function, and repair themselves. Genes are sections of DNA that contain instructions for making proteins. Proteins are important molecules that help the body work properly.
+### Introduction
 
-For many years, scientists believed that most human genes had already been discovered. However, better DNA sequencing technology has shown that the genome is much more complex than first thought. Hidden within large amounts of DNA data may be genes and important functional regions that we still do not fully understand.
+Artificial intelligence (AI) is transforming the way we understand biology, particularly in genomics—the study of genes and DNA. DNA contains the instructions needed for cells to function, while genes are specific sections of DNA that code for proteins or help regulate biological processes. For many years, scientists believed that most human genes had already been identified. However, advances in DNA sequencing have shown that the genome is far more complex than first thought, with many hidden functional elements still waiting to be discovered.
 
-Machine learning is a type of AI that allows computers to recognise patterns and make predictions from large datasets. Instead of relying only on traditional laboratory methods, scientists can now use AI to detect patterns in DNA that may suggest the presence of entirely new genes (Libbrecht and Noble, 2015).
+Machine learning, a branch of AI that allows computers to recognise patterns and make predictions from large datasets, is helping researchers explore these unknown areas. Instead of relying only on traditional laboratory methods, scientists can now use AI to detect subtle patterns in DNA that may suggest the presence of entirely new genes (Libbrecht and Noble, 2015).
 
-## Main Body
+### Main Body
 
-The human genome contains around three billion base pairs of DNA, but only a small percentage directly codes for proteins (International Human Genome Sequencing Consortium, 2004). For many years, scientists focused mainly on these protein-coding regions because they were easier to study.
+The human genome contains around three billion base pairs of DNA, yet only a small proportion directly codes for proteins (International Human Genome Sequencing Consortium, 2004). Historically, gene discovery focused mainly on these protein-coding regions because they were easier to identify and study. However, scientists now know that non-coding regions—once described as “junk DNA”—also play major roles in regulating gene activity, development, and disease (ENCODE Project Consortium, 2012).
 
-However, researchers now know that non-coding regions are also important. These regions were once called “junk DNA,” but scientists now understand that they help control how genes are switched on and off and can affect health and disease (ENCODE Project Consortium, 2012).
+One major benefit of AI in genomics is its ability to process huge amounts of data quickly and accurately. Machine learning models can compare DNA sequences, detect unusual patterns of gene expression, and predict whether a stretch of DNA may have an important biological function (Eraslan et al., 2019). This helps researchers identify genes that may have been missed using traditional methods.
 
-One major benefit of AI in genomics is speed and pattern recognition. AI can analyse huge amounts of genomic data much faster than humans. It can compare DNA sequences, identify unusual patterns, and predict whether a section of DNA may have an important biological function (Eraslan et al., 2019). This helps scientists discover genes that may have been missed using older methods.
+For example, AI has supported the discovery of non-coding RNAs, which are RNA molecules that do not produce proteins but help control how genes are switched on and off. These molecules are important in diseases such as cancer and were difficult to detect using older techniques (Esteller, 2011).
 
-For example, AI has helped identify non-coding RNAs. These are small RNA molecules that do not make proteins but help control gene activity. This has improved our understanding of diseases such as cancer (Esteller, 2011).
+Another important benefit is in personalised medicine. Deep learning, a more advanced form of AI, can predict promoter regions, splice sites, and protein structures. Tools such as AlphaFold have shown how AI can predict protein folding with remarkable accuracy, helping scientists better understand disease mechanisms and improve treatment development (Jumper et al., 2021).
 
-Another benefit of AI is improving personalised medicine. Deep learning, which is a more advanced form of AI, can help predict how genes are regulated and how proteins fold into their final shape. Tools such as AlphaFold can predict protein structures with high accuracy, helping scientists understand diseases and develop better treatments (Jumper et al., 2021).
+One important limitation of AI in genomics is that predictions are only as reliable as the data used to train the model. Poor-quality, incomplete, or biased datasets can lead to inaccurate predictions and false positives, causing researchers to investigate genes that may not actually exist.
 
-One major limitation of AI in genomics is accuracy. AI models are only as good as the data they are trained on. If the training data is poor-quality, incomplete, or biased, the predictions may be wrong. This can lead to false positives, where scientists spend time studying genes that do not actually exist.
+In addition, AI predictions must still be confirmed experimentally. A computer may predict that a DNA sequence behaves like a gene, but laboratory testing is required to prove its biological function. There are also ethical concerns surrounding genomic data, particularly around privacy, consent, and data ownership in personalised medicine.
 
-Another limitation is that AI cannot replace laboratory testing. A computer may predict that a section of DNA behaves like a gene, but scientists must still test it in the laboratory to prove whether it truly functions as one. There are also ethical concerns about storing and using large amounts of genomic data, especially around privacy and patient consent.
+This shows that AI should be viewed as a powerful support tool rather than a replacement for scientists. Human expertise remains essential for interpreting results and validating discoveries.
 
-This shows that AI is a powerful tool, but human expertise is still essential. Scientists are needed to interpret results and confirm discoveries.
+### Conclusion
 
-## Conclusion
+AI is opening a new chapter in genomics by helping scientists look beyond what is already known. Machine learning can uncover hidden genes, identify important non-coding elements, and improve our understanding of how biological systems function.
 
-AI is opening a new chapter in genomics by helping scientists look beyond what is already known. Machine learning can uncover hidden genes, identify important non-coding elements, and improve our understanding of how life works at a molecular level.
+One major benefit of AI is its speed and ability to recognise patterns in large genomic datasets. One important limitation is that inaccurate training data can lead to incorrect predictions, meaning laboratory validation is still essential.
 
-One clear benefit of AI is that it can process huge amounts of DNA data quickly and identify patterns that humans may miss. One clear limitation of AI is that its predictions can be wrong if the training data is poor, so laboratory testing is still necessary.
+Ultimately, AI is not replacing scientists—it is helping them ask better questions and make faster discoveries. As technology continues to advance, AI may reveal parts of the genome that have been overlooked for decades, reshaping the future of biology and medicine.
 
-Ultimately, AI is not replacing scientists. It is helping them ask better questions and make faster discoveries. As technology continues to improve, AI may reveal parts of the genome that have been overlooked for decades, reshaping the future of biology and medicine.
+
